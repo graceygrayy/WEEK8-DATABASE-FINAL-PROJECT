@@ -30,7 +30,7 @@ Many-to-Many → (doctors ↔ specialties).
 
 Clone this repository:
 
-git clone https://github.com/your-username/clinic-booking-dbms.git
+git clone https://github.com/graceygrayy/clinic-booking-dbms.git
 cd clinic-booking-dbms
 
 
